@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/google-gemini/cookbook/main/images/gemini_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtByEQOL-YkBreZT_dLqEBG3s8JUSev6QTB5HG72SstUdihLFP6WhPpk&s=10)" alt="Google AI Studio Logo" width="480" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtByEQOL-YkBreZT_dLqEBG3s8JUSev6QTB5HG72SstUdihLFP6WhPpk&s=10" alt="Google AI Studio Logo" width="480" />
 
 # ⚡ Built with Google AI Studio ⚡
 
