@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Roadster SpaceX Flight & Twin Towers Crash Simulator",
+  "description": "3D Physics Flight & Impact Simulation of Tesla Roadster with SpaceX rocket thrusters against Twin Towers with real-time aerodynamics, slow-motion impact replay, and telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
