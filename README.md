@@ -1,3 +1,23 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/google-gemini/cookbook/main/images/gemini_logo.png" alt="Google AI Studio Logo" width="480" />
+
+# ⚡ Built with Google AI Studio ⚡
+
+[![Built with Google AI Studio](https://img.shields.io/badge/Built%20with-Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-EA4335?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![Three.js](https://img.shields.io/badge/3D%20Engine-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
+<p align="center">
+  <b>แอปพลิเคชันนี้ได้รับการออกแบบ พัฒนา และสร้างสรรค์ขึ้นด้วยความช่วยเหลือของ Google AI Studio</b><br>
+  <i>This application was architected, engineered, and generated using Google AI Studio.</i>
+</p>
+
+---
+
+</div>
+
 # Tesla Roadster SpaceX Flight & Twin Towers Crash Simulator 🚀💥
 
 > **แบบจำลอง 3 มิติระบบฟิสิกส์ การบินไอพ่น SpaceX Cold-Gas Thruster ของ Tesla Roadster และการทดสอบแรงกระแทกกับ Twin Towers พร้อมระบบ Telemetry และภาพช้าสโลว์โมชั่น**
@@ -62,6 +82,7 @@
 
 ## 🛠️ สแต็กเทคโนโลยี (Tech Stack)
 
+- **AI Engine & Platform**: [Google AI Studio](https://aistudio.google.com/)
 - **Frontend**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **3D Graphics Engine**: [Three.js r160+](https://threejs.org/) (PBR MeshPhysicalMaterial, PMREMGenerator, Procedural Shaders, InstancedMesh)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
@@ -94,6 +115,13 @@
    ```bash
    npm run build
    ```
+
+---
+
+## 🌟 เครดิต (Credits & Acknowledgments)
+
+- พัฒนาและสร้างสรรค์ด้วย **[Google AI Studio](https://aistudio.google.com/)** และ **Google Gemini**
+- โมเดลและฟิสิกส์ 3D ขับเคลื่อนโดย **Three.js**
 
 ---
 
